@@ -41,7 +41,7 @@ PyQt5-based GUI application with enhanced features:
 
 1. Clone this repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/halaarar/lab-results-parser.git
 cd lab-results-parser
 ```
 
