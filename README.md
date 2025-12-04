@@ -52,6 +52,16 @@ pip install pandas openpyxl PyQt5
 
 ## Usage
 
+### Quick Start with Sample Data
+
+A sample lab report file is included for testing. Run the GUI application:
+
+```bash
+python lab_report_extractor.py
+```
+
+Then select [sample_lab_report.txt](sample_lab_report.txt) as your input file. The sample contains 3 specimen records with different results (Influenza A detected, RSV detected, and no pathogen detected).
+
 ### Command Line
 
 Run the script directly on a text file:

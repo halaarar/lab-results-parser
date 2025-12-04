@@ -1,0 +1,271 @@
+================================================================================
+                    BIOFIRE RESPIRATORY PANEL REPORT
+================================================================================
+
+RUN DATE: 01/15/25                    LAB ID: BF-2025-001
+LOCATION: Main Laboratory             OPERATOR: Lab Tech 01
+
+================================================================================
+PATIENT INFORMATION
+================================================================================
+
+SPEC #: S2025001
+AGE/SEX: 45/M
+PATIENT NAME: Sample, Patient A
+MRN: 12345678
+
+COLLECTION DATE: 01/15/25-0830
+RECEIVED: 01/15/25-0945
+COMP: 01/15/25-1130
+
+SPECIMEN TYPE: Nasopharyngeal Swab
+ORDERING PHYSICIAN: Dr. Smith, John
+
+================================================================================
+TEST RESULTS
+================================================================================
+
+Respiratory PCR Panel Interp        Final
+                                   INFLUENZA A DETECTED
+
+---Test Details---
+
+Adenovirus                         Final
+                                   Not Detected
+
+Coronavirus HKU1                   Final
+                                   Not Detected
+
+Coronavirus NL63                   Final
+                                   Not Detected
+
+Coronavirus 229E                   Final
+                                   Not Detected
+
+Coronavirus OC43                   Final
+                                   Not Detected
+
+Human Metapneumovirus              Final
+                                   Not Detected
+
+Human Rhinovirus/Enterovirus       Final
+                                   Not Detected
+
+Influenza A                        Final
+                                   Detected
+
+Influenza A/H1                     Final
+                                   Not Detected
+
+Influenza A/H3                     Final
+                                   Detected
+
+Influenza A/H1-2009                Final
+                                   Not Detected
+
+Influenza B                        Final
+                                   Not Detected
+
+Parainfluenza Virus 1              Final
+                                   Not Detected
+
+Parainfluenza Virus 2              Final
+                                   Not Detected
+
+Parainfluenza Virus 3              Final
+                                   Not Detected
+
+Parainfluenza Virus 4              Final
+                                   Not Detected
+
+RSV                                Final
+                                   Not Detected
+
+Bordetella pertussis               Final
+                                   Not Detected
+
+Chlamydophila pneumoniae           Final
+                                   Not Detected
+
+Mycoplasma pneumoniae              Final
+                                   Not Detected
+
+================================================================================
+END OF REPORT FOR SPECIMEN S2025001
+================================================================================
+
+
+================================================================================
+                    BIOFIRE RESPIRATORY PANEL REPORT
+================================================================================
+
+RUN DATE: 01/16/25                    LAB ID: BF-2025-002
+LOCATION: Main Laboratory             OPERATOR: Lab Tech 02
+
+================================================================================
+PATIENT INFORMATION
+================================================================================
+
+SPEC #: S2025002
+AGE/SEX: 28/F
+PATIENT NAME: Sample, Patient B
+MRN: 23456789
+
+COLLECTION DATE: 01/16/25-1200
+RECEIVED: 01/16/25-1315
+COMP: 01/16/25-1445
+
+SPECIMEN TYPE: Nasopharyngeal Swab
+ORDERING PHYSICIAN: Dr. Jones, Sarah
+
+================================================================================
+TEST RESULTS
+================================================================================
+
+Respiratory PCR Panel Interp        Final
+                                   RSV DETECTED
+
+---Test Details---
+
+Adenovirus                         Final
+                                   Not Detected
+
+Coronavirus HKU1                   Final
+                                   Not Detected
+
+Coronavirus NL63                   Final
+                                   Not Detected
+
+Coronavirus 229E                   Final
+                                   Not Detected
+
+Coronavirus OC43                   Final
+                                   Not Detected
+
+Human Metapneumovirus              Final
+                                   Not Detected
+
+Human Rhinovirus/Enterovirus       Final
+                                   Not Detected
+
+Influenza A                        Final
+                                   Not Detected
+
+Influenza B                        Final
+                                   Not Detected
+
+Parainfluenza Virus 1              Final
+                                   Not Detected
+
+Parainfluenza Virus 2              Final
+                                   Not Detected
+
+Parainfluenza Virus 3              Final
+                                   Not Detected
+
+Parainfluenza Virus 4              Final
+                                   Not Detected
+
+RSV                                Final
+                                   Detected
+
+Bordetella pertussis               Final
+                                   Not Detected
+
+Chlamydophila pneumoniae           Final
+                                   Not Detected
+
+Mycoplasma pneumoniae              Final
+                                   Not Detected
+
+================================================================================
+END OF REPORT FOR SPECIMEN S2025002
+================================================================================
+
+
+================================================================================
+                    BIOFIRE RESPIRATORY PANEL REPORT
+================================================================================
+
+RUN DATE: 01/17/25                    LAB ID: BF-2025-003
+LOCATION: Main Laboratory             OPERATOR: Lab Tech 01
+
+================================================================================
+PATIENT INFORMATION
+================================================================================
+
+SPEC #: S2025003
+AGE/SEX: 12/M
+PATIENT NAME: Sample, Patient C
+MRN: 34567890
+
+COLLECTION DATE: 01/17/25-0900
+RECEIVED: 01/17/25-1015
+COMP: 01/17/25-1200
+
+SPECIMEN TYPE: Nasopharyngeal Swab
+ORDERING PHYSICIAN: Dr. Wilson, Mary
+
+================================================================================
+TEST RESULTS
+================================================================================
+
+Respiratory PCR Panel Interp        Final
+                                   NO PATHOGEN DETECTED
+
+---Test Details---
+
+Adenovirus                         Final
+                                   Not Detected
+
+Coronavirus HKU1                   Final
+                                   Not Detected
+
+Coronavirus NL63                   Final
+                                   Not Detected
+
+Coronavirus 229E                   Final
+                                   Not Detected
+
+Coronavirus OC43                   Final
+                                   Not Detected
+
+Human Metapneumovirus              Final
+                                   Not Detected
+
+Human Rhinovirus/Enterovirus       Final
+                                   Not Detected
+
+Influenza A                        Final
+                                   Not Detected
+
+Influenza B                        Final
+                                   Not Detected
+
+Parainfluenza Virus 1              Final
+                                   Not Detected
+
+Parainfluenza Virus 2              Final
+                                   Not Detected
+
+Parainfluenza Virus 3              Final
+                                   Not Detected
+
+Parainfluenza Virus 4              Final
+                                   Not Detected
+
+RSV                                Final
+                                   Not Detected
+
+Bordetella pertussis               Final
+                                   Not Detected
+
+Chlamydophila pneumoniae           Final
+                                   Not Detected
+
+Mycoplasma pneumoniae              Final
+                                   Not Detected
+
+================================================================================
+END OF REPORT FOR SPECIMEN S2025003
+================================================================================
