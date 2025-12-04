@@ -1,2 +1,24 @@
 build/
 dist/
+
+# Data files - do not commit actual lab results
+*.txt
+*.TXT
+*.xlsx
+*.xls
+!requirements.txt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
