@@ -107,11 +107,17 @@ def process_file():
         df.to_excel(output_path, index=False)
         
         messagebox.showinfo("Success", f"Data has been extracted and saved to:\n{output_path}")
-        
+
         # Try to open the folder containing the saved file
         try:
+            import platform
             folder_path = os.path.dirname(output_path)
-            os.startfile(folder_path)  # For Windows
+            if platform.system() == 'Darwin':  # macOS
+                os.system(f'open "{folder_path}"')
+            elif platform.system() == 'Windows':
+                os.startfile(folder_path)
+            else:  # Linux
+                os.system(f'xdg-open "{folder_path}"')
         except:
             pass  # Silently fail if can't open folder
             
